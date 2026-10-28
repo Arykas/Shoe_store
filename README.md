@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="path/to/logo.png" alt="Habit Tracker logo" width="120" />
-
 # Habit Tracker
 
 **A simple app to track your daily habits (e.g., drink water, read 10 pages).**
-
-[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-2.0+-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](#)
 
 <img src="path/to/demo.gif" alt="Habit Tracker demo" width="600" />
 
