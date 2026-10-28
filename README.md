@@ -3,9 +3,6 @@
 # Habit Tracker
 
 **A simple app to track your daily habits (e.g., drink water, read 10 pages).**
-
-<img src="path/to/demo.gif" alt="Habit Tracker demo" width="600" />
-
 </div>
 
 ---
